@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Archivo+Black|Chonburi|Libre+Baskerville|Homemade+Apple|Miss+Fajardose|Playfair+Display+SC|Shrikhand|Satisfy');
+
+h1 {
+    color: #FF521B;
+    font-size: 4.2em;
+    font-family: 'Chonburi', cursive;
+}
+
+h2 {
+    color: #FF521B;
+    font-size: 2.2em;
+    font-family: 'Chonburi', cursive;
+    margin-left: 25em;
+}
+
+
+h3 {
+    color: #FF521B;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h4 {
+    color: #FF521B;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h5 {
+    color: #FF521B;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+   margin-bottom: 1em
+}
+
+h6 {
+    color: #FC9E4F;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h7 {
+    color: #FC9E4F;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h8 {
+    color: #FC9E4F;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h10 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h11 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h12 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h13 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h14 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h15 {
+    color: #EDD382;
+    font-size: 1.8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 1em
+}
+
+h16 {
+    color: #813405;
+    font-size: 8em;
+    font-family: 'Abril Fatface', cursive;
+    margin-left: 0.5em;
+}
+
+#sonnet {
+    background-image: url(https://media3.giphy.com/media/l2SpXooHKDShYUyeQ/giphy.gif)
+}
+
+
+h20 {
+    margin-left: 20em
+}
+
+
+
+
+
+h30 {
+    color: #A44200;
+    font-size: 3em;
+    font-family: 'Homemade Apple', cursive;
+    margin-left: 5em;
+}
+
+#letter2 {
+    color: #BC5F04;
+    font-size: 1.2em;
+    font-family: 'Major Mono Display', monospace;
+    margin-bottom: 1.5em;
+}
+
+h55 {
+    margin-left: 25em
+}
+
+#lost {
+    background-color: #010001
+}
+
+a {color: #A44200;
+font-size: 3em;
+font-family: 'Shrikhand', cursive;
+margin-left: 3em}
+
+a:hover {color:#F2F3AE}
+
+h81 {color: #D58936;
+    font-size: 3em;
+    font-family: 'Abril Fatface', cursive;
+    margin-left: 0.5em
+    
+}
+
+h82 {
+    
+    margin-left: 16em;
+    margin-bottom: 5em;
+}
+h83 { color: #A44200;
+font-size: 3em;
+    font-family: serif;
+margin-left: 3em}
+
+#firstp {background-color: chocolate}
